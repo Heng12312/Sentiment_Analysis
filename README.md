@@ -8,3 +8,8 @@
 
 ## Data Source
 https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data
+
+# Guideline
+1) The raw and pre-processed datasets are stored in the 'data' folder.
+2) The source code is stored in the 'src' folder.
+3) Refer to 'Report.pdf' for understanding our work. 
